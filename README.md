@@ -1,37 +1,85 @@
 # 💫 About Me:
-Hi 👋 I'm Sanjeev Rai  
 
-🎓 B.Tech CSE Student  
-💻 Interested in Java, Advanced Java (AWT), and Core Programming  
-🔐 Exploring Cyber Security concepts  
-📚 Learning by building practical projects  
-🚀 Goal: Improve skills and grow as a software professional
+Hi 👋 I'm **Sanjeev Rai**
 
-🌐 **Portfolio:** https://YOUR-VERCEL-LINK.vercel.app
+🎓 B.Tech Computer Science & Engineering Student  
+💻 Passionate Full Stack Web Developer and Java Programmer  
+🚀 Building modern, responsive and scalable web applications using Next.js & React  
+🔐 Exploring Cyber Security concepts and secure application development  
+📚 Strong interest in Java, Advanced Java (AWT), DBMS and Software Development  
+🌱 Continuously learning new technologies and building real-world projects  
+🎯 Goal: Become a skilled Software Engineer and contribute to impactful products.
 
-## 🌐 Socials:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-VERCEL-LINK.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeevrai07/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjeevRai07)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SanjeevRai07&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=SanjeevRai07&theme=gruvbox_light&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevRai07&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌐 **Portfolio:** https://sanjeevportfolio-delta.vercel.app/
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SanjeevRai07&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🌐 Socials
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeevrai07/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjeevRai07)
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+- Java
+- C
+- JavaScript
+- TypeScript
+
+### Frontend
+- Next.js
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Framer Motion
+
+### Backend
+- Node.js
+- EmailJS
+
+### Database
+- Supabase
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Canva
+- Adobe Photoshop
+
+### Core Computer Science
+- Data Structures & Algorithms
+- Object Oriented Programming (OOP)
+- DBMS
+- Operating System
+- Computer Networks
+- Advanced Java (AWT)
+- Cyber Security Fundamentals
+
+---
+
+# 🚀 Featured Projects
+
+✨ Personal Portfolio Website  
+✨ Restaurant Management System  
+✨ FasalTrack – Smart Agriculture Platform
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SanjeevRai07&theme=gruvbox_light&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=SanjeevRai07&theme=gruvbox_light)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevRai07&layout=compact&theme=gruvbox_light)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=SanjeevRai07&icon=0&color=0)
